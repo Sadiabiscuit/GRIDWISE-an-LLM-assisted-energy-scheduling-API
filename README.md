@@ -150,3 +150,10 @@ No API key is included in the repository. Provider errors are returned as contro
 Open `http://localhost:8000/` after starting Uvicorn. The dashboard can generate a demo request, run the optimizer, and display the cost summary, directives, and hourly schedule.
 
 For local use without an API key, the service uses its deterministic local interpreter unless `REQUIRE_LLM=true`. For challenge judging, configure `OPENAI_API_KEY` and set `REQUIRE_LLM=true`.
+
+
+## app view
+
+<img width="870" height="407" alt="image" src="https://github.com/user-attachments/assets/7dac02d0-149b-4b02-8a8e-b4c737cabb9c" />
+<img width="845" height="380" alt="image" src="https://github.com/user-attachments/assets/c300a2a6-17e6-45b5-a17b-5e775e42fe05" />
+
